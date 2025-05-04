@@ -10,6 +10,7 @@ def generate_report():
     <html>
     <head><title>Weather Report</title></head>
     <body>
+        <h1>Wellcome to CICD Class</h1>
         <h1>Today's Weather</h1>
         <p>Temperature: 30°C</p>
         <p>Report generated at: {timestamp}</p>
