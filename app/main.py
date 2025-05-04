@@ -7,6 +7,7 @@ def generate_report():
     <body>
         <h1>Today's Weather</h1>
         <p>Temperature: 30°C</p>
+        <p>Report generated at: {{timestamp}}</p>
     </body>
     </html>
     """
