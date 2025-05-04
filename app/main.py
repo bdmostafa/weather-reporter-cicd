@@ -8,7 +8,7 @@ def generate_report():
 
     html = f"""
     <html>
-    <head><title>Weather Report</title></head>
+    <head><title>Weather Report | CICD Demo</title></head>
     <body>
         <h1>Wellcome to CICD Class</h1>
         <h1>Today's Weather</h1>
